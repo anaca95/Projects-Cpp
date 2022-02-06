@@ -16,7 +16,7 @@ int main(){
             if(strlen(senha)<=8 && senha!=NULL){
             printf("\n >> Cadastro realizado com sucesso!");}
             else
-            printf("\n >> CADASTRO DE SENHA INVALIDO!");
+            printf("\n >> Cadastro falhou! Verifique a senha.");
         }
         else 
             printf("Cadastro falhou! Verifique o usuario.");
