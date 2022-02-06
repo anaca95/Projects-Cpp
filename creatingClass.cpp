@@ -25,5 +25,7 @@ int main(){
    // Or print using printf:
    //printf("%d",myObj.myNumber);
    //printf("%s", myObj.myString);
+
+   
     return 0;
 }
